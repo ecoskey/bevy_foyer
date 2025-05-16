@@ -1,0 +1,9 @@
+[package]
+name = "bevy_query_entry"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy_ecs = "0.16.1"
+bevy_platform = "0.16.1"
+bevy_utils = "0.16.1"
